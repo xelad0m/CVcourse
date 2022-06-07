@@ -3,10 +3,38 @@
 
 # Except these ...
 !.gitignore
+!1.Нейрон и нейронная сеть.ipynb
+!2.Строим первую нейронную сеть.ipynb
+!3.Задачи, решаемые при помощи нейронных сетей.ipynb
+!4. Методы оптимизации.ipynb
+!5.1.Реализация сверточного слоя.ipynb
+!5.Сверточные нейронные сети.ipynb
+!6.Регуляризация и нормализация.ipynb
+!7.Метод макс.правдоподобия.ipynb
+!README.md
 
-!*.md
-!*.ipynb
+!img/
 !img/*
 
-# ...even if they are in subdirectories
-!*/
+!8.Каггле/
+!8.Каггле/0.tsne.ipynb
+!8.Каггле/1.baseline-in-pytorch.ipynb
+!8.Каггле/2.transforms.ipynb
+!8.Каггле/3.unfreeze.ipynb
+!8.Каггле/4.more.ipynb
+!8.Каггле/5.self-learn.ipynb
+!8.Каггле/6.crop.ipynb
+!8.Каггле/7.ensenmble.ipynb
+!8.Каггле/8.markup.ipynb
+
+!Neural_Networks_and_CV/
+!Neural_Networks_and_CV/module01_basics.ipynb
+!Neural_Networks_and_CV/module02_gradient_descent.ipynb
+!Neural_Networks_and_CV/module03_sin_prediction.ipynb
+!Neural_Networks_and_CV/module03_wine_prediction.ipynb
+!Neural_Networks_and_CV/module03_wine_task.ipynb
+!Neural_Networks_and_CV/module04_mnist_fc.ipynb
+!Neural_Networks_and_CV/module05_mnist_conv.ipynb
+!Neural_Networks_and_CV/module06_cifar.ipynb
+!Neural_Networks_and_CV/module06_mnist_batchnorm.ipynb
+!Neural_Networks_and_CV/README.md
