@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Except these ...
+!.gitignore
+
+!*.md
+!*.ipynb
+!img/*
+
+# ...even if they are in subdirectories
+!*/
